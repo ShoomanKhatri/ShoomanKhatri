@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web developer from Nepal.</h3>
 
 <p align="right">
-  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4731x737ev8hfm89e92mr1wk2fymxal2rajytzmpcw&ep=v1_gifs_search&rid=giphy.gif" alt="codinggif" width="400" style="max-width:100%;">
+  <img src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4731x737ev8hfm89e92mr1wk2fymxal2rajytzmpcw&ep=v1_gifs_search&rid=giphy.gif" alt="codinggif" width="400" style="max-width:100;">
 </p>
 
 
