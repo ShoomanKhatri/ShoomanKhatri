@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **ASP.NET,NextJS**
 
-- 👨‍💻 some of my projects are available at [sumankhatri1.com.np](sumankhatri1.com.np)
+- 👨‍💻 some of my projects are available at [sumankhatri1.com.np](https://sumankhatri1.com.np/)
 
 - 📫 How to reach me **shoomankhatri@gmail.com**
 
