@@ -34,6 +34,9 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-docker-12-1175229.png?f=webp&w=256" alt="docker" width="40" height="40"/>
   <a> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"/> </a>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40"/>
+ <img src = "https://tanstack.com/_build/assets/logo-color-600w-Bx4vtR8J.png" width="40" height="40" />
+          
           
  
  </p>
