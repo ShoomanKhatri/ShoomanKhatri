@@ -10,7 +10,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoomankhatri&label=Profile%20views&color=0e75b6&style=flat" alt="shoomankhatri" /> </p>
 
-- 🌱 I’m currently learning **Cloud Computing.**
+🚀 **Backend & Cloud Enthusiast** | ⚙️ **System Design & DSA Explorer**  
+
+- 🌱 Currently diving into **Cloud Computing** to build scalable systems.  
 
 - 👨‍💻 some of my projects are available at [sumankhatri1.com.np](https://sumankhatri1.com.np/)
 
