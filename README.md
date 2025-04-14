@@ -1,18 +1,27 @@
 <h1 align="center">Hi 👋, I'm Suman Khatri</h1>
-<h3 align="center">A passionate Web developer from Nepal.</h3>
+<h3 align="center">Backend Developer by heart, Full Stack by choice.</h3>
 
-<p >
+<p>
   <img align="right" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4731x737ev8hfm89e92mr1wk2fymxal2rajytzmpcw&ep=v1_gifs_search&rid=giphy.gif" alt="codinggif" width="400" style="max-width:100;">
 </p>
 
-
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoomankhatri&label=Profile%20views&color=0e75b6&style=flat" alt="shoomankhatri" /> </p>
 
-🚀 **Backend & Cloud Enthusiast** | ⚙️ **System Design & DSA Explorer**  
+🚀 **Backend Developer** | 💻 **Frontend? Absolutely!**
 
-- 🌱 Currently diving into **Cloud Computing** to build scalable systems.  
+---
+
+### Fun Facts About Me:
+
+- Built an entire backend system before the coffee finished brewing.
+- Can refactor legacy code like it’s 1999 and still make it look modern.
+- APIs? I’ve got them flowing smoother than your favorite playlist.
+- Wrote a REST API that was so efficient, it started fixing itself.
+- Give me any tech stack and I’ll make it feel like home — from the backend to the frontend.
+
+---
+
+🌱 Currently diving into **scalable systems** and optimizing everything I touch.
 
 - 👨‍💻 some of my projects are available at [sumankhatri1.com.np](https://sumankhatri1.com.np/)
 
