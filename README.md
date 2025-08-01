@@ -11,12 +11,12 @@
 
 
 <ul>
-  <li>🧠 <strong>Problem Solving & DSA:</strong> Passionate about tackling complex challenges and writing efficient algorithms.</li>
-  <li>🛠️ <strong>Tech Stack:</strong> Python, REST APIs, SQL, Node.js, Git</li>
-  <li>⚙️ <strong>What I Do:</strong> Automation, API Development, Debugging, and Code Refactoring</li>
-  <li>☁️ <strong>Learning:</strong> Cloud Computing (AWS), DevOps, CI/CD</li>
+  <li>🧠 <strong>DSA & Problem Solving:</strong> Enjoy building efficient, scalable solutions.</li>
+  <li>🛠️ <strong>Stack:</strong> Python, REST APIs, SQL, Node.js, Git</li>
+  <li>⚙️ <strong>Focus:</strong> Automation, API Design, Debugging</li>
+  <li>☁️ <strong>Learning:</strong> AWS, DevOps, CI/CD</li>
 </ul>
-- Give me any tech stack and I’ll make it feel like home from the backend to the frontend.
+
 
 
 🌱 Currently diving into **scalable systems** and optimizing everything I touch.
