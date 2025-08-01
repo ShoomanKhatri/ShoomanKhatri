@@ -10,15 +10,12 @@
 🚀 **Backend Developer** | 💻 **System Design**
 
 
-### Fun Facts About Me:
-
-- Built a REST API in under 10 minutes with one hand tied behind my back.
-- Wrote a code so clean, even VSCode asks for tips.
-- Can optimize queries in my sleep and fix bugs faster than a Git merge.
-- Built an entire backend system before the coffee finished brewing.
-- Can refactor legacy code like it’s 1999 and still make it look modern.
-- APIs? I’ve got them flowing smoother than your favorite playlist.
-- Wrote a REST API that was so efficient, it started fixing itself.
+<ul>
+  <li>🧠 <strong>Problem Solving & DSA:</strong> Passionate about tackling complex challenges and writing efficient algorithms.</li>
+  <li>🛠️ <strong>Tech Stack:</strong> Python, REST APIs, SQL, Node.js, Git</li>
+  <li>⚙️ <strong>What I Do:</strong> Automation, API Development, Debugging, and Code Refactoring</li>
+  <li>☁️ <strong>Learning:</strong> Cloud Computing (AWS), DevOps, CI/CD</li>
+</ul>
 - Give me any tech stack and I’ll make it feel like home from the backend to the frontend.
 
 
