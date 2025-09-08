@@ -14,7 +14,7 @@
   <li>🧠 <strong>DSA & Problem Solving:</strong> Enjoy building efficient, scalable solutions.</li>
   <li>🛠️ <strong>Stack:</strong> Python, REST APIs, SQL, Node.js, Git</li>
   <li>⚙️ <strong>Focus:</strong> Automation, API Design, Debugging</li>
-  <li>☁️ <strong>Learning:</strong> AWS, DevOps, CI/CD</li>
+  <li>☁️ <strong>Learning:</strong> AWS, DevOps, Automation</li>
 </ul>
 
 
@@ -60,3 +60,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shoomankhatri&show_icons=true&locale=en" alt="shoomankhatri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoomankhatri&" alt="shoomankhatri" /></p>
+
