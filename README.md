@@ -48,7 +48,7 @@
   <a href="https://www.docker.com/" target = "_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="40" height="40"/> </a>
    <a href="https://svelte.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" width="40" height="40" /></a>
 <a href="https://graphql.org/" target = "_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" width="40" height="40"/></a> 
-  <a href="https://tanstack.com/" target="_blank"> <img src = "https://tanstack.com/_build/assets/logo-color-600w-Er4SOkq1.png" width="40" height="40" />
+  <a href="https://tanstack.com/" target="_blank"> <img src = "https://logowik.com/content/uploads/images/react-query9872.logowik.com.webp" width="40" height="40" />
   </a>
           
           
@@ -66,6 +66,7 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shoomankhatri&theme=dark&hide_border=true" />
 </p>
+
 
 
 
