@@ -64,8 +64,10 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoomankhatri&theme=github_dark" alt="GitHub Profile Summary" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shoomankhatri&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=shoomankhatri&theme=dark&hide_border=true" />
 </p>
+
+
 
 
 
