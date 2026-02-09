@@ -62,7 +62,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shoomankhatri&" alt="shoomankhatri" /></p>
 <p>
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shoomankhatri&theme=github_dark" alt="GitHub Profile Summary" />
-</p>
+</p>.
+
 
 
 
