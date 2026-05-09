@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoomankhatri&label=Profile%20views&color=0e75b6&style=flat" alt="shoomankhatri" /> </p>
 
-🚀 **Backend Developer** | 💻 **System Design**
+**Backend Developer** | 💻 **System Design**
 
 
 <ul>
