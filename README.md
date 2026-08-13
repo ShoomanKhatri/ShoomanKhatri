@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suman Khatri</h1>
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 <p>
   <img align="right" src="https://media1.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif?cid=ecf05e4731x737ev8hfm89e92mr1wk2fymxal2rajytzmpcw&ep=v1_gifs_search&rid=giphy.gif" alt="codinggif" width="400" style="max-width:100;">
